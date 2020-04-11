@@ -5,3 +5,5 @@
 /etc/motion/camera4.conf
 /etc/motion/motion.conf
 /etc/udev/rules.d/77-video.rules
+/etc/httpd/conf.d/autoindex.conf
+/etc/httpd/conf.d/motion.conf
