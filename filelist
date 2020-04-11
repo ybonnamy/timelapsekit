@@ -1,1 +1,7 @@
 /var/motion/generate.sh
+/etc/motion/camera1.conf
+/etc/motion/camera2.conf
+/etc/motion/camera3.conf
+/etc/motion/camera4.conf
+/etc/motion/motion.conf
+/etc/udev/rules.d/77-video.rules
