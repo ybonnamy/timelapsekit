@@ -7,3 +7,4 @@
 /etc/udev/rules.d/77-video.rules
 /etc/httpd/conf.d/autoindex.conf
 /etc/httpd/conf.d/motion.conf
+/var/spool/cron/motion
