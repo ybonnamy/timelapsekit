@@ -8,3 +8,4 @@
 /etc/httpd/conf.d/autoindex.conf
 /etc/httpd/conf.d/motion.conf
 /var/spool/cron/motion
+/var/motion/timelapse/copy.cgi
