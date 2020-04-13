@@ -1,0 +1,6 @@
+apache ALL= NOPASSWD: /usr/bin/systemctl stop motion
+apache ALL= NOPASSWD: /usr/bin/systemctl start motion
+apache ALL= NOPASSWD: /usr/bin/systemctl stop crond
+apache ALL= NOPASSWD: /usr/bin/systemctl start crond
+apache ALL= NOPASSWD: /usr/sbin/poweroff
+apache ALL= NOPASSWD: /usr/sbin/reboot

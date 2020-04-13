@@ -11,3 +11,8 @@
 /var/motion/timelapse/copy.cgi
 /var/motion/timelapse/park.cgi
 /var/motion/timelapse/unpark.cgi
+/var/motion/timelapse/admin/poweroff.cgi
+/var/motion/timelapse/admin/reboot.cgi
+/var/motion/timelapse/admin/start.cgi
+/var/motion/timelapse/admin/stop.cgi
+/etc/sudoers.d/apache
