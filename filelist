@@ -16,3 +16,4 @@
 /var/motion/timelapse/admin/start.cgi
 /var/motion/timelapse/admin/stop.cgi
 /etc/sudoers.d/apache
+/var/motion/timelapse/admin/cleanparking.cgi
