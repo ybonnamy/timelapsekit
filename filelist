@@ -9,3 +9,5 @@
 /etc/httpd/conf.d/motion.conf
 /var/spool/cron/motion
 /var/motion/timelapse/copy.cgi
+/var/motion/timelapse/park.cgi
+/var/motion/timelapse/unpark.cgi
