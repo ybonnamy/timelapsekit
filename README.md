@@ -1,6 +1,8 @@
 # timelapsekit
 here are the files i setup on a linux laptop to watch some animal's life 
 
+it's quick and dirty, just a hobby, not big and professional 
+
 ## turtle
 https://youtu.be/y6rGO4wcf00
 
