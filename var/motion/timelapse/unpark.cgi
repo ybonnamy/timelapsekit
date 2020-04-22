@@ -1,5 +1,5 @@
 #!/bin/bash
-mv /var/motion/parking/CAM*.jpg /var/motion/
+mv /var/motion/parking/CAM*.jpg /var/motion/snapshots/
 echo "Content-type: text/html"
 echo ""
 echo "<html>"
