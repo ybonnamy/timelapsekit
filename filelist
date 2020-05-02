@@ -18,3 +18,6 @@
 /etc/sudoers.d/apache
 /var/motion/admin/cleanparking.cgi
 /var/motion/timelapse/genmp4.ffmpeg.cgi
+/var/motion/timelapse/genmp4.EndoscopeUSB.sh
+/var/motion/timelapse/genmp4.IntegratedWebcam.sh
+/var/motion/timelapse/genmp4.pwc.sh
