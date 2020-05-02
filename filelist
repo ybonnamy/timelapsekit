@@ -1,4 +1,4 @@
-/var/motion/generate.sh
+/var/motion/timelapse/generate.avi.sh
 /etc/motion/camera1.conf
 /etc/motion/camera2.conf
 /etc/motion/camera3.conf
@@ -11,10 +11,10 @@
 /var/motion/timelapse/copy.cgi
 /var/motion/timelapse/park.cgi
 /var/motion/timelapse/unpark.cgi
-/var/motion/timelapse/admin/poweroff.cgi
-/var/motion/timelapse/admin/reboot.cgi
-/var/motion/timelapse/admin/start.cgi
-/var/motion/timelapse/admin/stop.cgi
+/var/motion/admin/poweroff.cgi
+/var/motion/admin/reboot.cgi
+/var/motion/admin/start.cgi
+/var/motion/admin/stop.cgi
 /etc/sudoers.d/apache
-/var/motion/timelapse/admin/cleanparking.cgi
+/var/motion/admin/cleanparking.cgi
 /var/motion/timelapse/genmp4.ffmpeg.cgi
