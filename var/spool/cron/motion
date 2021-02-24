@@ -1,5 +1,6 @@
 * * * * * /var/motion/timelapse/generate.avi.sh
 0,20,40 * * * * /var/motion/timelapse/genmp4.IntegratedWebcam.sh
-6,26,46 * * * * /var/motion/timelapse/genmp4.EndoscopeUSB.sh
-12,32,52 * * * * /var/motion/timelapse/genmp4.pwc.sh
+10,30,50 * * * * /var/motion/timelapse/genmp4.C920.sh
+#6,26,46 * * * * /var/motion/timelapse/genmp4.EndoscopeUSB.sh
+#12,32,52 * * * * /var/motion/timelapse/genmp4.pwc.sh
 

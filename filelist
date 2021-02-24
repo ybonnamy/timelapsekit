@@ -3,6 +3,7 @@
 /etc/motion/camera2.conf
 /etc/motion/camera3.conf
 /etc/motion/camera4.conf
+/etc/motion/camera5.conf
 /etc/motion/motion.conf
 /etc/udev/rules.d/77-video.rules
 /etc/httpd/conf.d/autoindex.conf
@@ -21,3 +22,4 @@
 /var/motion/timelapse/genmp4.EndoscopeUSB.sh
 /var/motion/timelapse/genmp4.IntegratedWebcam.sh
 /var/motion/timelapse/genmp4.pwc.sh
+/var/motion/timelapse/genmp4.C920.sh

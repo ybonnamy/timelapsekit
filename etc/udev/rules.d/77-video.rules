@@ -1,3 +1,4 @@
 KERNEL=="video[0-9]*", SUBSYSTEM=="video4linux", SUBSYSTEMS=="usb", ATTRS{idVendor}=="0471", ATTRS{idProduct}=="0311", SYMLINK+="pwc"
-KERNEL=="video[0-9]*", SUBSYSTEM=="video4linux", SUBSYSTEMS=="usb", ATTRS{idVendor}=="0461", ATTRS{idProduct}=="4db6", SYMLINK+="IntegratedWebcam"
+KERNEL=="video[0-9]*", SUBSYSTEM=="video4linux", SUBSYSTEMS=="usb", ATTRS{idVendor}=="0461", ATTRS{idProduct}=="4db6", ATTR{index}=="0", SYMLINK+="IntegratedWebcam"
 KERNEL=="video[0-9]*", SUBSYSTEM=="video4linux", SUBSYSTEMS=="usb", ATTRS{idVendor}=="038f", ATTRS{idProduct}=="6001", SYMLINK+="EndoscopeUSB"
+KERNEL=="video[0-9]*", SUBSYSTEM=="video4linux", SUBSYSTEMS=="usb", ATTRS{idVendor}=="046d", ATTRS{idProduct}=="08e5", ATTR{index}=="0", SYMLINK+="C920"
